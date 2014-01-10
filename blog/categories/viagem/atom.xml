@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: viagem | Casal Partiu]]></title>
+  <link href="http://casalpartiu.com.br/blog/categories/viagem/atom.xml" rel="self"/>
+  <link href="http://casalpartiu.com.br/"/>
+  <updated>2014-01-10T12:32:13-02:00</updated>
+  <id>http://casalpartiu.com.br/</id>
+  <author>
+    <name><![CDATA[Vinícius Teles]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Três anos de Casal Partiu]]></title>
+    <link href="http://casalpartiu.com.br/tres-anos-de-casal-partiu"/>
+    <updated>2013-12-30T13:38:00-02:00</updated>
+    <id>http://casalpartiu.com.br/tres-anos-de-casal-partiu</id>
+    <content type="html"><![CDATA[<p>No dia 30 de dezembro de 2013, celebramos três anos "na estrada". E, para comemorar, fizemos esse vídeo que conta um pouco dessa história: como começou, por onde estivemos, o que aprendemos, que tipo de problemas enfrentamos e o que pensamos dessa filosofia de vida.</p>
+
+<iframe width="640" height="360" src="http://casalpartiu.com.br//www.youtube.com/embed/JWqBj8FYMhI?rel=0" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+</feed>
