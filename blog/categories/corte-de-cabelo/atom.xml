@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: corte de cabelo | Casal Partiu]]></title>
+  <link href="http://casalpartiu.com.br/blog/categories/corte-de-cabelo/atom.xml" rel="self"/>
+  <link href="http://casalpartiu.com.br/"/>
+  <updated>2014-01-17T05:52:07-02:00</updated>
+  <id>http://casalpartiu.com.br/</id>
+  <author>
+    <name><![CDATA[Vinícius Teles]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hora de cortar o cabelo na Turquia]]></title>
+    <link href="http://casalpartiu.com.br/hora-de-cortar-o-cabelo-na-turquia"/>
+    <updated>2014-01-17T14:30:00-02:00</updated>
+    <id>http://casalpartiu.com.br/hora-de-cortar-o-cabelo-na-turquia</id>
+    <content type="html"><![CDATA[<div class="center">
+<iframe width="640" height="360" src="http://www.youtube.com/embed/41aw2Fk1fkQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+<p>Cortar cabelo no exterior costuma ser um pouco assustador. Afinal, trata-se de um lugar novo e a gente não sabe ao certo se a pessoa sequer vai entender o que queremos. Resolvemos filmar essa experiência e mostrar o que há de especial no caso da Turquia.</p>
+]]></content>
+  </entry>
+  
+</feed>
