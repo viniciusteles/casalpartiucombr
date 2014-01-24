@@ -4,8 +4,8 @@ permalink: /quer-fazer-um-tour-em-istambul
 title: Quer fazer um tour em Istambul?
 thumbnail: http://i1.ytimg.com/vi/1VcWJluc8Oc/maxresdefault.jpg
 date: 2014-01-24T13:30:00-03:00
-description: Quer conhecer Istambul como se fosse um local. A brasileira Michele Käfer vive em Istanbul  e mostra aos brasileiros o melhor da cidade.
-keywords: tour, turismo, turquia, istambul, michele käfer, viagem, férias, guia de turismo, agência de viagem, entrevista
+description: Quer conhecer Istambul como se fosse um local? A brasileira Michele Käfer vive em Istanbul e mostra aos brasileiros o melhor da cidade.
+keywords: tour, turismo, turquia, istambul, michele käfer, viagem, férias, guia de turismo, agência de viagem, entrevista, vinícius teles
 categories:
  - tour
  - turismo
@@ -18,6 +18,7 @@ categories:
  - guia de turismo
  - agência de viagem
  - entrevista
+ - vinícius teles
 ---
 <div class="center">
 <iframe width="640" height="360" src="http://www.youtube.com/embed/1VcWJluc8Oc" frameborder="0" allowfullscreen></iframe>
