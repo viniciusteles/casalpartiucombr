@@ -15,4 +15,6 @@ categories:
 
 Cortar cabelo no exterior costuma ser um pouco assustador. Afinal, trata-se de um lugar novo e a gente não sabe ao certo se a pessoa sequer vai entender o que queremos. Resolvemos filmar essa experiência e mostrar o que há de especial no caso da Turquia.
 
+[Inscreva-se no canal do YouTube do Casal Partiu para acompanhar os próximos vídeos.][i] 
+[i]: http://www.youtube.com/subscription_center?add_user=CasalPartiu
 

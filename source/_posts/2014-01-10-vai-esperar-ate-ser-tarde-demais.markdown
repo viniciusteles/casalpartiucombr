@@ -23,3 +23,7 @@ Resposta: que aconteça algo grave, que mude minha vida para pior, de forma irre
 <div class="center">
 <iframe width="640" height="360" src="http://www.youtube.com/embed/Zyzcosdan8I" frameborder="0" allowfullscreen></iframe>
 </div>
+
+[Inscreva-se no canal do YouTube do Casal Partiu para acompanhar os próximos vídeos.][i] 
+[i]: http://www.youtube.com/subscription_center?add_user=CasalPartiu
+

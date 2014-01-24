@@ -34,6 +34,7 @@ Passamos vários dias com a [Michele][m], já que a [Pati][p] esteve fotografand
 Mais informações sobre o [Turistambul][t] em: [http://www.turistambul.com/pt/][t].
 
 [Inscreva-se no canal do YouTube do Casal Partiu para acompanhar os próximos vídeos.][i] 
+[i]: http://www.youtube.com/subscription_center?add_user=CasalPartiu
 
 [m]: http://www.turistambul.com/pt/#!/page_Services
 [t]: http://www.turistambul.com/pt/
