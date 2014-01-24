@@ -14,6 +14,7 @@ categories:
  - férias
  - guia de turismo
  - agência de viagem
+ - entrevista
 ---
 <div class="center">
 <iframe width="640" height="360" src="http://www.youtube.com/embed/1VcWJluc8Oc" frameborder="0" allowfullscreen></iframe>
