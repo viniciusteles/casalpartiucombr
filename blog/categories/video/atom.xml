@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: nômade | Casal Partiu]]></title>
-  <link href="http://casalpartiu.com.br/blog/categories/nomade/atom.xml" rel="self"/>
+  <title><![CDATA[Category: vídeo | Casal Partiu]]></title>
+  <link href="http://casalpartiu.com.br/blog/categories/video/atom.xml" rel="self"/>
   <link href="http://casalpartiu.com.br/"/>
   <updated>2014-01-24T13:02:54-02:00</updated>
   <id>http://casalpartiu.com.br/</id>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hora de cortar o cabelo na Turquia]]></title>
+    <link href="http://casalpartiu.com.br/hora-de-cortar-o-cabelo-na-turquia"/>
+    <updated>2014-01-17T14:30:00-02:00</updated>
+    <id>http://casalpartiu.com.br/hora-de-cortar-o-cabelo-na-turquia</id>
+    <content type="html"><![CDATA[<div class="center">
+<iframe width="640" height="360" src="http://www.youtube.com/embed/41aw2Fk1fkQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+<p>Cortar cabelo no exterior costuma ser um pouco assustador. Afinal, trata-se de um lugar novo e a gente não sabe ao certo se a pessoa sequer vai entender o que queremos. Resolvemos filmar essa experiência e mostrar o que há de especial no caso da Turquia.</p>
+
+<p><a href="http://www.youtube.com/subscription_center?add_user=CasalPartiu">Inscreva-se no canal do YouTube do Casal Partiu para acompanhar os próximos vídeos.</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Vai esperar até ser tarde demais?]]></title>
