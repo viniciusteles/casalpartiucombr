@@ -27,7 +27,7 @@ categories:
 <iframe width="640" height="360" src="http://www.youtube.com/embed/H3YqW8bCF34" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Viajamos de [Istambul][is], na [Turquia][t], para [Plovdiv][pl], na [Bulgária][b]. Veja como foi na fronteira e aprenda algumas curiosidades sobre a Bulgária.
+Viajamos de [Istambul][is], na [Turquia][t], para [Plovdiv][pl], na [Bulgária][b]. Veja como foi na fronteira e aprenda algumas curiosidades sobre a [Bulgária][b].
 
 Músicas usadas nesse vídeo, na ordem em que aparecem:
 
@@ -36,7 +36,7 @@ Músicas usadas nesse vídeo, na ordem em que aparecem:
 
 Essas músicas são disponibilizadas como [Creative Commons][cc].
 
-O apartamento que é mostrado no vídeo foi alugado através do [Airbnb][a]. Se você pretende visitar [Plovdiv][pl], esse é o [anúncio do apartamento][aa].
+O apartamento que é mostrado no vídeo foi alugado através do [Airbnb][a]. Se você pretende visitar [Plovdiv][pl], esse é o [apartamento que aparece no vídeo][aa].
 
 [Inscreva-se no canal do YouTube do Casal Partiu para acompanhar os próximos vídeos.][i] 
 [i]: http://www.youtube.com/subscription_center?add_user=CasalPartiu
