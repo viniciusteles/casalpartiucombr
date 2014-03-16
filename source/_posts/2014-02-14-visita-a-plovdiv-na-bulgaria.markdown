@@ -5,7 +5,7 @@ title: Visita à Plovdiv, na Bulgária
 thumbnail: http://i1.ytimg.com/vi/A4QdJiIhu9Q/maxresdefault.jpg
 date: 2014-02-14T13:30:00-03:00
 description: Conheça Plovdiv, segunda maior cidade da Bulgária. Embarque nesse passeio pelas ruas pitorescas dessa bela cidade búlgara.
-keywords: viagem, bulgária, plovdiv, turismo, férias, tour, plovdiv free tour, vídeo, patricia figueira, vinícius teles
+keywords: viagem, bulgária, plovdiv, turismo, férias, tour, plovdiv free tour, vídeo, patricia figueira, vinícius teles, nômades digitais
 categories:
  - viagem
  - bulgária
@@ -17,6 +17,7 @@ categories:
  - vídeo
  - patricia figueira
  - vinícius teles
+ - nômades digitais
 ---
 <div class="center">
 <iframe width="640" height="360" src="http://www.youtube.com/embed/A4QdJiIhu9Q" frameborder="0" allowfullscreen></iframe>

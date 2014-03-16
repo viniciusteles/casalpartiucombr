@@ -4,15 +4,15 @@ permalink: /vai-esperar-ate-ser-tarde-demais
 title: Vai esperar até ser tarde demais?
 date: 2014-01-10T13:30:00-03:00
 thumbnail: http://i1.ytimg.com/vi/Zyzcosdan8I/maxresdefault.jpg
-keywords: medo, viagem, nômade, lifestyle, vídeo, vinícius teles
+keywords: medo, viagem, nômades digitais, lifestyle, vídeo, vinícius teles
 description: Esperar para realizar os sonhos pode custar caro. E se não der tempo? Melhor começar já.
 categories:
  - medo
  - viagem
- - nômade
  - lifestyle
  - vídeo
  - vinícius teles
+ - nômades digitais
 ---
 <div class="center">
   <img src="/images/tarde-demais.jpg" height="360" width="640">

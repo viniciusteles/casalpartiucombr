@@ -5,7 +5,7 @@ title: Hora de cortar o cabelo na Turquia
 thumbnail: http://i1.ytimg.com/vi/41aw2Fk1fkQ/maxresdefault.jpg
 description: Quer saber como é cortar o cabelo na Turquia? Veja o que tem de especial.
 date: 2014-01-17T13:30:00-03:00
-keywords: corte de cabelo, turquia, istambul, cera quente, vinícius teles, patricia figueira, vídeo
+keywords: corte de cabelo, turquia, istambul, cera quente, vinícius teles, patricia figueira, vídeo, nômades digitais
 categories:
  - corte de cabelo
  - turquia
@@ -14,6 +14,7 @@ categories:
  - vinícius teles
  - patricia figueira
  - vídeo
+ - nômades digitais
 ---
 <div class="center">
 <iframe width="640" height="360" src="http://www.youtube.com/embed/41aw2Fk1fkQ" frameborder="0" allowfullscreen></iframe>

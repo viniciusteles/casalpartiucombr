@@ -5,11 +5,11 @@ title: Três anos de Casal Partiu
 date: 2013-12-30T12:38:00-03:00
 thumbnail: http://i1.ytimg.com/vi/lciHf4EvFPU/maxresdefault.jpg
 description: Casal Partiu é o nome do casal brasileiro que se desfez de tudo há três anos e foi viajar pelo mundo. Patricia e Vinícius viraram nômades.
-keywords: aniversário, viagem, nômade, lifestyle, aventura, estilo de vida, vinícius teles, patricia figueira, vídeo
+keywords: aniversário, viagem, nômades digitais, lifestyle, aventura, estilo de vida, vinícius teles, patricia figueira, vídeo
 categories:
  - aniversário
  - viagem
- - nômade
+ - nômades digitais
  - lifestyle
  - aventura
  - estilo de vida

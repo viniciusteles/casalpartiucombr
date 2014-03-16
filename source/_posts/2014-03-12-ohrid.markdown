@@ -5,7 +5,7 @@ thumbnail: https://lh3.googleusercontent.com/-_5v4V2h4aW4/UyNVQMp_BNI/AAAAAAAAAC
 title: Ohrid
 date: 2014-03-12T13:30:00-03:00
 description: Ohrid é uma das cidades mais lindas da Macedonia (FYROM). Fica à beira de um lindo lago e tem muita história.
-keywords: viagem, turismo, bálcãs, leste europe, macedonia, fyrom, ohrid, skopje, escópia, belgrado, sérvia, doença, hospital, médico, fotos, patricia figueira
+keywords: viagem, turismo, bálcãs, leste europe, macedonia, fyrom, ohrid, skopje, escópia, belgrado, sérvia, doença, hospital, médico, fotos, patricia figueira, nômades digitais
 categories:
  - viagem
  - turismo
@@ -23,6 +23,7 @@ categories:
  - médico
  - fotos
  - patricia figueira
+ - nômades digitais
 ---
 <div class="center">
 <img src="https://lh3.googleusercontent.com/-_5v4V2h4aW4/UyNVQMp_BNI/AAAAAAAAACQ/crxS4GQjS8M/s1600/ohridweb.jpg" width="800" height="329" title="Ohrid, Macedonia">
